@@ -1,3 +1,4 @@
-# Modify this portfolio
+# Paul Brown Portfolio
 
-Make it your own! 
+[Please check it out](https://quasark-portfolio.netlify.app/)
+
