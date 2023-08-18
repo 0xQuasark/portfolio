@@ -1,0 +1,115 @@
+{
+  "basic_info": {
+    "description_header": "Hallo 👋. Ich war einmal Ingenieur, dann wurde ich Unternehmer, jetzt bin ich wieder Ingenieur",
+    "description": "Paul Brown",
+    "section_name": {
+      "about": "Über mich",
+      "projects": "Projekte",
+      "skills": "Fähigkeiten",
+      "experience": "Erfahrung"
+    }
+  },
+  "projects": [
+    {
+      "title": "Dolphin Rescue",
+      "startDate": "2020",
+      "description": "Ich beschloss, Haie aus den Verstecken von bösen Schurken zu retten. Befriedigende Sache.",
+      "images": [
+        "images/0xquasark_dolphins.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Astronaut",
+      "startDate": "2018",
+      "description": "Mir wurde langweilig, beschloss, benachbarte Planeten zu besuchen. Es war in Ordnung.",
+      "images": [
+        "images/0xquasark_astronaut.png"
+      ],
+      "url": "https://github.com/0xQuasark",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Galactic Frisbee Champion",
+      "startDate": "2015",
+      "description": "Ich trat gegen die besten Frisbee-Spieler der Galaxie an!",
+      "images": [
+        "images/0xquasark_frisbee.png"
+      ],
+      "url": "https://github.com/0xQuasark",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ethereum.org",
+      "title": "Back-End Developer",
+      "years": "01.2024 - present",
+      "mainTech": [
+        "Solidity"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Comic Con",
+      "title": "Praktikant",
+      "years": "01.1990 - 12.2023",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}

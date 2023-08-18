@@ -11,12 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Dolphin Rescue",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "I decided to rescue sharks from Evil Villain lairs. Satisfying stuff.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/0xquasark_dolphins.png"
         ],
         "url": "",
         "technologies": [
@@ -35,14 +34,13 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Astronaut",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Got bored, decided to check out neighboring planets. It was fine.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/0xquasark_astronaut.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/0xQuasark",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +53,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Galactic Frisbee Champion",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "I competed against the best frisbee players in the galaxy!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/0xquasark_frisbee.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/0xQuasark",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,11 +78,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Ethereum.org",
+        "title": "Back-End Developer",
+        "years": "01.2024 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Solidity"
         ],
         "technologies": [
           "REST API",
@@ -100,9 +97,9 @@
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "Comic Con",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "01.1990 - 12.2023",
         "mainTech": [
           "Angular 7/8"
         ],
